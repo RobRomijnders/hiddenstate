@@ -37,6 +37,10 @@ This project is licensed under the MIT License. See the LICENSE.txt file for det
 The code is based on an earlier repository: https://github.com/tolgaergen/convex_nn
 That repository does not have a license, but the authors have given permission for us to use it.
 
+The accounting, in particular the gdp.py file, is based on the repository (it includes mu-GDP privacy analysis for NoisyCGD):
+https://github.com/jinhobok/shifted_interpolation_dp
+
+
 # Citing this work
 
 If you use this code, please cite the following work:
@@ -53,4 +57,4 @@ If you use this code, please cite the following work:
 
 # Contact
 
-romijndersrob@gmail.com and antti.h.koskela@nokia-bell-labs.com
+romijndersrob@gmail.com and antti.h.koskela@helsinki.fi
