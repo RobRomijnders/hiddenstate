@@ -48,7 +48,7 @@ If you use this code, please cite the following work:
 ```
 @article{ergen2024convex,
   title={Convex Approximation of Two-Layer ReLU Networks for Hidden State Differential Privacy},
-  journal={NeurIPS 2025},
+  journal={Advances in neural information processing systems (NeurIPS)},
   author={Romijnders, Rob and Koskela, Antti},
   year={2025},
   url={https://arxiv.org/abs/2407.04884}
@@ -57,4 +57,4 @@ If you use this code, please cite the following work:
 
 # Contact
 
-romijndersrob@gmail.com and antti.h.koskela@helsinki.fi
+For questions about the code and paper, please contact romijndersrob@gmail.com and/or antti.h.koskela@nokia-bell-labs.com.
