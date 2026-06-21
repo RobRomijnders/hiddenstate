@@ -11,8 +11,7 @@ We achieve this through a stochastic approximation of a dual formulation of the 
 Our experiments on benchmark classification tasks show that NoisyCGD can achieve privacy-utility trade-offs comparable to DP-SGD applied to 2-layer ReLU networks. Additionally, we provide theoretical utility bounds highlighting the speed-ups gained through the convex approximation.
 ```
 
-[Arxiv link](https://arxiv.org/abs/2407.04884)
-TODO: Soon there will be a link to the poster and slides here.
+[Arxiv link to the paper](https://arxiv.org/abs/2407.04884). Note that an amendment has been made to Lemma 3.1 in June 2026.
 
 # Code
 
